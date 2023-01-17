@@ -1,0 +1,7 @@
+Nguyen Van Manh;       17;       9.3
+Ha Thi Thao;           17;       9.5
+Trinh Thanh Dat;       17;       8.5
+Ngo Minh Hai;          18;       7.3
+Nguyen Van Tai;        17;       6.5
+Tran Dinh Trong;       18;       8.4
+Le Phuong Vu;          17;       7.0
